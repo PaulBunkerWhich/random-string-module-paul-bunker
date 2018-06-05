@@ -1,10 +1,10 @@
 module.exports = {
-    RandonChar = function(length) {
+    RandomChar : function(length) {
         var string = "abcdefghijklmnopqrstuvwxyx0123456789";
         var str = ''
 
         var i = 0;
-        while (i < num) {
+        while (i < length) {
             str += string.charAt(Math.floor(Math.random() * string.length));
             i++
         }

@@ -1,6 +1,6 @@
 {
   "name": "random-string-module-paul-bunker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A module that returns alphanumeric strings",
   "main": "server.js",
   "scripts": {
